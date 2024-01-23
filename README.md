@@ -1,6 +1,6 @@
 # Got U
 
-![App](app.png){width=50%}
+<img src="app.png" alt="App" width="50%">
 
 This Flutter project utilizes the GetX state management library to create a simple app that allows users to search for the location based on an IP address. The app also features a dark mode and light mode for a personalized user experience.
 
